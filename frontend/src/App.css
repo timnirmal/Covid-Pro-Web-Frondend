@@ -7,6 +7,7 @@
   align-items:center;
   justify-content: space-between;
   background-color: #66004d;
+  height: 60px;
 }
 .header a{
   color: #fff;
